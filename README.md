@@ -22,10 +22,11 @@ Will also be evaluated:
 
 ## About
 As part of our commitment to provide the necessary tools, documentation about the topics covered in the test is attached below, however, it is expected that the developer will investigate further and can provide more knowledge.
-- [Dynamic Lists](https://esflutter.dev/docs/cookbook/lists/mixed-list)
-- [API consumption](https://esflutter.dev/docs/cookbook/networking/fetch-data)
-- [Null data validation](https://devjaime.medium.com/dart-null-safety-una-gu%C3%ADa-para-los-tipos-que-no-aceptan-valores-nulos-44767a116da0)
-- [Effective Dart](https://dart.dev/guides/language/effective-dart)
+- [SOLID Principles applied to Dart](https://medium.com/nerd-for-tech/solid-principles-in-a-flutter-32eaf7218476#:~:text=SOLID%20stands%20for%20Single%20Responsibility,practices%20and%20are%20very%20popular.)
+- [API consumption](https://www.linkedin.com/pulse/flutter-api-call-best-practices-building-efficient-reliable-saini)
+- [State Management Principles](https://docs.flutter.dev/data-and-backend/state-mgmt/options)
+- [Testing and CI/CD](https://dart.dev/guides/language/effective-dart)
+- [Analytics in Production](https://embrace.io/blog/top-flutter-monitoring-tools/)
 
 #### Note:
 - The test consists of the topics that were mentioned above. No point in the actual test will be about anything that has not been mentioned in this document.
