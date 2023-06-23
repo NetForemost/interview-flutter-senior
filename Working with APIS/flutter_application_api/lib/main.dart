@@ -28,8 +28,7 @@ class _APITestPageState extends State<APITestPage> {
   String _apiResponse = '';
 
   Future<void> fetchData() async {
-    final url = 'https://api.example.com/data'; // Replace with your API endpoint
-
+    const url = 'https://api.publicapis.org/entries'; // Replace with your API endpoint
     try {
       final response = await http.get(Uri.parse(url));
 
