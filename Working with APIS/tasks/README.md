@@ -23,8 +23,5 @@ Task 4: Display response data
 
 // Display the fetched API response in a Text widget below the 'Fetch Data' button on the APITestPage.
 
-Task 5: Custom API endpoint
-
-// Update the URL in the fetchData() method to a custom API endpoint of your choice.
 
 
